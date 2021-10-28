@@ -1,0 +1,18 @@
+Chemistry 
+https://cheminformatics.usegalaxy.eu/
+
+other groups 
+https://toolshed.g2.bx.psu.edu/groups
+
+Intergalactic Utilities Commission	19	2356
+galaxyp	4	791
+rnateam	3	421
+imgteam	3	377
+Workflow4Metabolomics	9	77
+Galaxy Genome Annotation	4	389
+chemteam	1	320
+ecology	5	376
+Computational Metabolomics
+
+available tools 
+https://toolshed.g2.bx.psu.edu/
