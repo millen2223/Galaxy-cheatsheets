@@ -2,7 +2,7 @@
 Working on cheatsheets for Galaxy
 
 This could help in solving issues: 
-718, 2936, #2947, #1065 
+#718, #2936, #2947, #1065 
 
 https://github.com/galaxyproject/training-material/issues/718
 
