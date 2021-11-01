@@ -1,4 +1,4 @@
-# Galaxy-cheatsheets
+# ![GTN-60px](https://user-images.githubusercontent.com/87771278/139704802-5d95c090-5154-4a91-9fd7-3c4608f4c1e0.png) Galaxy-cheatsheets
 Working on cheatsheets for Galaxy
 
 This could help in solving issues: 
