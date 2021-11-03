@@ -12,7 +12,7 @@ https://github.com/galaxyproject/training-material/issues/2947
 
 https://github.com/galaxyproject/training-material/issues/1065 
 
-**Links**
+  **Links**
 
 Most of the tools in the Galaxy
 https://toolshed.g2.bx.psu.edu/
